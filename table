@@ -1,4 +1,4 @@
-script_key="@lainlainlainn";
+script_key="@fwq";
 getgenv().spooks = {
     Options = {
         Type = "Target",
